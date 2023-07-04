@@ -1,4 +1,4 @@
-# Matheus Souza Gomes - Desenvolvedor de Software & Estudante de Cyber Security
+# Matheus Gomes - Desenvolvedor de Software & Estudante de Cyber Security
 
 Olá, seja bem-vindo ao meu GitHub! Eu sou Matheus Gomes, desenvolvedor de software com experiência em C#, .Net Framework, Web API, Entity Framework, Sql Server, Selenium, Xamarin, .NET Maui, Html e Css. 
 
@@ -12,11 +12,7 @@ Tenho experiência no desenvolvimento de diversos tipos de aplicações, desde a
 - 💼 Atualmente trabalho como Desenvolvedor de Software
 - 🚀 Sempre em busca de aprender e aprimorar minhas habilidades
 - 💡 Apaixonado por inovação e novas tecnologias
-- 📫 Como me encontrar:
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gomes)
-  
-    [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.gomesss_/)
 
 
 ---
@@ -35,12 +31,6 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho experiência:
 - ![.NET Maui](https://img.shields.io/badge/-.NET_Maui-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
----
-
-## 📈 Meu Status no GitHub
-
-![Matheus Gomes' GitHub stats](https://github-readme-stats.vercel.app/api?username=mgomesss&show_icons=true&theme=radical)
 
 ---
 
