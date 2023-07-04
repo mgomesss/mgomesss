@@ -1,4 +1,4 @@
-# Matheus Gomes - Desenvolvedor de Software & Estudante de Cyber Security
+# Matheus Gomes - Dev de Software & Estudante de Cyber Security
 
 Olá, seja bem-vindo ao meu GitHub! Eu sou Matheus Gomes, desenvolvedor de software com experiência em C#, .Net Framework, Web API, Entity Framework, Sql Server, Selenium, Xamarin, .NET Maui, Html e Css. 
 
