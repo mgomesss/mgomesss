@@ -8,7 +8,7 @@ Olá, seja bem-vindo ao meu GitHub! Eu sou Matheus Gomes, desenvolvedor de softw
 
 Tenho experiência no desenvolvimento de diversos tipos de aplicações, desde aplicações web até desktop, com foco em otimizar e agilizar processos. Estou sempre em busca de novos desafios e aprendizado, buscando aplicar as melhores práticas e tecnologias para desenvolver soluções eficientes e de qualidade. Atualmente, estou também estudando e explorando o mundo da segurança cibernética.
 
-- 🎓 Cursando CyberSecurity, C#, Java Script e Web API na Udemy, e DevMedia
+- 🎓 Cursando CyberSecurity, C# e Web API
 - 💼 Atualmente trabalho como Desenvolvedor de Software
 - 🚀 Sempre em busca de aprender e aprimorar minhas habilidades
 - 💡 Apaixonado por inovação e novas tecnologias
