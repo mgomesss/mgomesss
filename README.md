@@ -29,7 +29,7 @@ Tenho experiência no desenvolvimento de diversos tipos de aplicações, desde a
 
 📧 Contato : 
 
-- WhatsApp: (11) 9 7362-5464
+- WhatsApp: (11) 9 5678-8072
 - E-mail: matheusgomes710@gmail.com
 
 Agradecido pela sua visita! 😊
