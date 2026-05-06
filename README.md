@@ -1,35 +1,137 @@
-# Matheus Gomes - Dev de Software & Estudante de Cyber Security
+# 👨‍💻 Matheus Gomes
 
-Olá, seja bem-vindo ao meu GitHub! Eu sou Matheus Gomes, desenvolvedor de software com experiência em C#, .Net Framework, Web API, Entity Framework, Sql Server, Selenium, Xamarin, .NET Maui, Html e Css. 
+**Desenvolvedor .NET focado em backend, produtos digitais e sistemas em produção**
 
----
-
-## 💻 Sobre mim
-
-Tenho experiência no desenvolvimento de diversos tipos de aplicações, desde aplicações web até desktop, com foco em otimizar e agilizar processos. Estou sempre em busca de novos desafios e aprendizado, buscando aplicar as melhores práticas e tecnologias para desenvolver soluções eficientes e de qualidade. Atualmente, estou também estudando e explorando o mundo da segurança cibernética.
-
-- 🎓 Cursando CyberSecurity, C# e Web API
-- 💼 Atualmente trabalho como Desenvolvedor de Software
-- 🚀 Sempre em busca de aprender e aprimorar minhas habilidades
-- 💡 Apaixonado por inovação e novas tecnologias
-
-
+Construo APIs, automações e produtos completos — do código à infraestrutura — com foco em performance, segurança e impacto real no negócio.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+Sou desenvolvedor com mais de 4 anos de experiência criando sistemas que realmente rodam em produção.
 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=microsoft&logoColor=white) ![.NET Maui](https://img.shields.io/badge/-.NET_Maui-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+Nos últimos tempos, foquei em ir além do desenvolvimento tradicional:
+- lidando com **problemas reais de produção**
+- trabalhando com **infraestrutura e escalabilidade**
+- entendendo **segurança na prática (inclusive ataques)**
+- construindo **produtos próprios do zero**
 
-![Web API](https://img.shields.io/badge/-WebAPI-512BD4?style=flat-square&logo=microsoft&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
+Hoje meu foco é desenvolver soluções que:
+→ performam bem  
+→ escalam  
+→ são seguras  
+→ resolvem problemas de verdade  
 
 ---
 
-📧 Contato : 
+## 💼 Experiência & Impacto
 
-- WhatsApp: (11) 9 5678-8072
-- E-mail: matheusgomes710@gmail.com
+- ⚡ Otimização de APIs de pagamento → **-35% de tempo de resposta**
+- 💰 Automação com OCR → **economia de R$7.000/mês**
+- 🔒 Implementação de melhorias de segurança em sistemas com dados sensíveis
+- 🔄 Refatoração de sistemas legados com **zero downtime**
+- 📊 Experiência com sistemas sob carga e cenários reais de produção
 
-Agradecido pela sua visita! 😊
+---
+
+## 🧠 Projetos em Destaque
+
+### 💕 It Love  
+🔗 https://www.itlove.com.br/
+
+Produto digital de surpresas personalizadas com pagamento via PIX.
+
+- Sistema completo em produção
+- Integração com pagamentos
+- Geração dinâmica de QR Code
+- Infraestrutura na AWS (EC2 + S3)
+
+👉 Meu projeto mais rentável até hoje
+
+---
+
+### 🤖 ExtractLab  
+🔗 https://www.extractlab.com.br/
+
+API de OCR para extração automática de dados de documentos.
+
+- Processamento de PDFs e imagens
+- Extração estruturada de dados
+- Arquitetura escalável com APIs e webhooks
+
+👉 Base já validada em cenário real com economia comprovada
+
+---
+
+### 💰 Liso Finance  
+🔗 https://lisofinance.com.br/
+
+Plataforma de controle financeiro via WhatsApp.
+
+- Registro de gastos por linguagem natural
+- Integração oficial com WhatsApp
+- Sistema completo de finanças (cartões, metas, dívidas, alertas)
+- Foco em experiência sem atrito e automação total
+
+👉 Projeto mais ambicioso até o momento
+
+---
+
+## 🛠️ Stack Principal
+
+### Backend & Arquitetura
+- .NET / ASP.NET Core
+- Web APIs REST
+- Clean Architecture
+- Microservices
+- Dapper / Entity Framework
+
+### Banco de Dados
+- SQL Server
+- Modelagem de dados
+- Otimização de queries
+
+### Cloud & DevOps
+- AWS (EC2, S3)
+- GitHub Actions
+- Deploy e monitoramento
+
+### Mensageria & Performance
+- RabbitMQ
+- SQS
+- Redis
+
+### Automação & Segurança
+- Selenium
+- Proteção de APIs
+- Análise de vulnerabilidades
+- Práticas de segurança (OWASP, 2FA, etc)
+
+### Front-end (quando necessário)
+- HTML, CSS, JavaScript
+- Bootstrap, jQuery
+
+---
+
+## 🎯 Atualmente focado em
+
+- Arquitetura de sistemas escaláveis
+- Segurança de aplicações
+- Performance e otimização
+- Produtos digitais completos (do zero ao deploy)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: matheusgomes710@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/m-gomesss/  
+- 📱 WhatsApp: +55 11 95678-8072  
+
+---
+
+## ⚡ Observação
+
+A maior parte do meu aprendizado veio construindo e lidando com sistemas reais em produção.
+
+Se quiser trocar ideia sobre arquitetura, backend ou ver algum projeto funcionando, só chamar.
