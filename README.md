@@ -44,7 +44,6 @@ Produto digital de surpresas personalizadas com pagamento via PIX.
 - Sistema completo em produção
 - Integração com pagamentos
 - Geração dinâmica de QR Code
-- Infraestrutura na AWS (EC2 + S3)
 
 👉 Meu projeto mais rentável até hoje
 
